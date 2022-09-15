@@ -1,0 +1,24 @@
+.cabecera{
+    background-color: #D6EAF8;
+}
+.llamar{
+    color: #D35400;
+    display: flex;
+    align-items: center;
+}
+.llamar svg{
+    fill:#D35400;
+}
+.tel{
+    margin-left: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.nomEmpresa{
+    font-size: 25px;
+    text-decoration:none;
+    color: #D35400;
+    font-weight: bold;
+    font-family:cursive;
+    margin-left: 20px;
+}
